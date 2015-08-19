@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/KurtWM/pen/KzksL.
+
+ Converts an unordered list into a survey. The questions allow a "low to high" agreement response. The questions can be sub-divided into categories by using the "title" attribute of each list item. At the completion of the survey, a bar chart is displayed showing the values of each category. Answers are saved to local storage so that they can be retrieved later.
